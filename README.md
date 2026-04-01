@@ -144,6 +144,8 @@ This repository uses **Ket-LANG** as the implementation environment for local si
 
 Ket-LANG is used here as a practical environment to test ideas around **TMP-QUBO-QAOA pipelines** and structured mixer design.
 
+For more information about Ket-LANG, visit the official project page: [QuantumKet](https://quantumket.org/).
+
 ---
 
 ## Main research message
