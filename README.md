@@ -119,16 +119,16 @@ Implications for:
 
 ## Notebooks in this repository
 
-### `TMP as QUBO with Constrained-Mixer.ipynb`
+### [`TMP as QUBO with Constrained-Mixer.ipynb`](./TMP%20as%20QUBO%20with%20Constrained-Mixer.ipynb)
 Explores TMP modeling as a QUBO while introducing the logic of a constrained mixer tailored to railway feasibility.
 
-### `TMP as QUBO as QAOA in KET.ipynb`
+### [`TMP as QUBO as QAOA in KET.ipynb`](./TMP%20as%20QUBO%20as%20QAOA%20in%20KET.ipynb)
 Presents a baseline QAOA implementation of TMP in **Ket-LANG**, using a direct QUBO-to-QAOA workflow.
 
-### `KET-LANG - QAOA Demo v1.ipynb`
+### [`KET-LANG - QAOA Demo v1.ipynb`](./KET-LANG%20-%20QAOA%20Demo%20v1.ipynb)
 Provides a simpler demonstration notebook for QAOA concepts and Ket-based local simulation.
 
-### `KET-LANG - QAOA Mixer Constraint - Demo v1.ipynb`
+### [`KET-LANG - QAOA Mixer Constraint - Demo v1.ipynb`](./KET-LANG%20-%20QAOA%20Mixer%20Constraint%20-%20Demo%20v1.ipynb)
 Focuses on mixer behavior and experiments related to **constraint-preserving QAOA** in Ket-LANG.
 
 ---
