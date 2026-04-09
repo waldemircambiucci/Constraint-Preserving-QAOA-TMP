@@ -192,6 +192,26 @@ If you use or reference this repository, please cite the associated paper, prepr
 
 ---
 
+## References
+
+- J. Dörpinghaus and R. Schrader, "A Graph-Theoretic Approach to the Train Marshalling Problem," 2018 Federated Conference on Computer Science and Information Systems (FedCSIS), Poznan, Poland, 2018, pp. 227-231.
+- FALSAFAIN, Hossein; TAMANNAEI, Mohammad. A novel dynamic programming approach to the train marshalling problem. IEEE Transactions on Intelligent Transportation Systems, v. 21, n. 2, p. 701-710, 2019. https://arxiv.org/abs/1903.08364 
+- DOMINO, Krzysztof et al. Quantum computing approach to railway dispatching and conflict management optimization on single-track railway lines. arXiv preprint arXiv:2010.08227, 2020. https://arxiv.org/abs/2010.08227 
+- FUCHS, Franz Georg et al. Constraint preserving mixers for the quantum approximate optimization algorithm. Algorithms, v. 15, n. 6, p. 202, 2022. https://arxiv.org/abs/2203.06095v3 
+- BENTLEY, Christopher DB et al. Quantum computing for transport optimization. arXiv preprint arXiv:2206.07313, 2022. https://arxiv.org/abs/2206.07313 
+- E. Dahlhaus, P. Horák, M. Miller, and J. F. Ryan, “The Train Marshalling Problem,” Discrete Applied Mathematics, vol. 103, no. 1–3, pp. 41–54, 2000. https://doi.org/10.1016/S0166-218X(99)00219-X. 
+- K. Beygang, F. Dahms, and S. O. Krumke, “Train Marshalling Problem—Algorithms and Bounds,” 2010/2011, https://api.semanticscholar.org/CorpusID:53520358. 
+- F. Rinaldi and R. Rizzi, “Solving the Train Marshalling Problem by Inclusion–Exclusion,” Discrete Applied Mathematics, 2017, https://www.sciencedirect.com/science/article/pii/S0166218X16304504. 
+- F. Dahms, “Train Marshalling Problems – Algorithms and Complexity,” 2010. http://fdahms.com/documents/publications/2010_train_marshalling_problem.pdf 
+- H. Zhang et al., “Railcar Itinerary Optimization in Railway Marshalling Yards,” 2025. https://doi.org/10.1016/j.trc.2024.104970. 
+- W. Qian, R. A. M. Basili, M. M. Eshaghian-Wilner, A. Khokhar, G. Luecke, and J. P. Vary, “Comparative Study of Variations in Quantum Approximate Optimization Algorithms for the Traveling Salesman Problem,” Entropy, vol. 25, no. 8, 1238, 2023.
+- U. Azad, B. K. Behera, E. A. Ahmed, P. K. Panigrahi, and A. Farouk, “Solving Vehicle Routing Problem Using Quantum Approximate Optimization Algorithm,” IEEE Transactions on Intelligent Transportation Systems, 2023.
+- D. Fitzek, T. Ghandriz, L. Laine, M. Granath, and A. F. Kockum, “Applying Quantum Approximate Optimization to the Heterogeneous Vehicle Routing Problem,” Scientific Reports, vol. 14, 25415, 2024.
+- L. Palackal, B. Poggel, M. Wulff, H. Ehm, J. M. Lorenz, and C. B. Mendl, “Quantum-Assisted Solution Paths for the Capacitated Vehicle Routing Problem,” IEEE International Conference on Quantum Computing and Engineering (QCE), 2023.
+- R. S. do Carmo, M. C. S. Santana, F. F. Fanchini, V. H. C. de Albuquerque, and J. P. Papa, “Warm-Starting QAOA with XY Mixers: A Novel Approach for Quantum-Enhanced Vehicle Routing Optimization,” arXiv, 2025.
+
+---
+
 ## Author
 
 **Waldemir Cambiucci**  
